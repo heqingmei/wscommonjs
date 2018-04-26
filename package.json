@@ -1,0 +1,15 @@
+{
+  "name": "wscommonjs",
+  "version": "1.0.0",
+  "description": "winsurfro 开发的commonjs",
+  "main": "winsurfro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "winsurfro",
+    "commonjs"
+  ],
+  "author": "winsurfro",
+  "license": "ISC"
+}
